@@ -1,4 +1,5 @@
 Bitcoin Core integration/staging tree
+excelente aprendizaje
 =====================================
 
 https://bitcoincore.org
